@@ -1,4 +1,4 @@
-![Site](https://github.com/edsondearaujo/edsondearaujo/blob/master/favicon.ico)
+[![](https://github.com/edsondearaujo/edsondearaujo/blob/master/favicon.ico)](https://edsondearaujo.github.io/)
 
 [![Linkedin: Edson Soares](https://img.shields.io/badge/-Edson_Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-soares-b16b0815b/)](https://www.linkedin.com/in/edson-soares-b16b0815b/)
 
